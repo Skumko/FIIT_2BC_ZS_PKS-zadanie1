@@ -1,0 +1,4 @@
+0800 IPv4 
+0806 ARP
+8137 Novell IPX
+86DD IPv6
